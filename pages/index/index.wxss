@@ -1,0 +1,11 @@
+.title{
+  display: flex;
+  justify-content: center;
+  font-size: 1.5em;
+  color: red;
+}
+.anniu{
+  width: 100px;
+  height: auto;
+  background-color: cadetblue;
+}
